@@ -11,18 +11,18 @@ public class Constants {
 	/**
 	 * 现在支付  相关参数
 	 */
-	public static String NOWPAY_APP_ID = "1435659688772285";
-	public static String NOWPAY_APP_KEY = "QIsDeGmrSe2G6iAswDwvQpkPTxO9lEOJ";
+	public static String NOWPAY_APP_ID = "1435659688772285*&^%";
+	public static String NOWPAY_APP_KEY = "QIsDeGmrSe2G6iAswDwvQpkPTxO9lEOJ*&^%";
 	
 	/**
 	 * 阿里支付 相关参数
 	 */
 	// 合作身份者ID，以2088开头由16位纯数字组成的字符串
-	public static String ALIPAY_PARTNER = "2088202198891693";
+	public static String ALIPAY_PARTNER = "2088202198891693*&^%";
 	// 收款支付宝账号
 	public static String ALIPAY_SELLER_EMAIL = "363867842@qq.com";
 	// 商户的私钥
-	public static String ALIPAY_KEY = "clbwk588wowi7ehjs6zvh9vmhavxr36c";
+	public static String ALIPAY_KEY = "clbwk588wowi7ehjs6zvh9vmhavxr36c*&^%";
 	// 调试用，创建TXT日志文件夹路径
 	public static String ALIPAY_LOG_PATH = "D:\\";
 	// 字符编码格式 目前支持 gbk 或 utf-8

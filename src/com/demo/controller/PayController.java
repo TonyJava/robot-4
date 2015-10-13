@@ -26,8 +26,8 @@ import com.demo.util.alipay.AlipayNotify;
 public class PayController extends MultiActionController {
 
 	
-	private static String appId = "1435659688772285";
-	private static String appKey = "QIsDeGmrSe2G6iAswDwvQpkPTxO9lEOJ";
+	private static String appId = "1435659688772285*&^%2";
+	private static String appKey = "QIsDeGmrSe2G6iAswDwvQpkPTxO9lEOJ*&*$#@";
 	@Autowired
 	private PayService payService;
 	@Autowired
